@@ -37,7 +37,7 @@
     <PackageReference Include="Rx-Linq" Version="2.2.5" />
     <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
-    <PackageReference Include="System.ServiceModel.Primitives" Version="4.4.1" />
+    <PackageReference Include="System.ServiceModel.Primitives" Version="4.4.4" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Update="CluedIn.Core" Version="2.4.0-alpha0073" />
